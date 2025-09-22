@@ -196,14 +196,27 @@ public int refundBalance() {
 **Contoh Alur Interaksi**
 1. Membuat objek ticket machine
 
+    <img width="360" alt="Image" src="img/3-1-newticket.png" />  <img width="360" alt="Image" src="img/3-2-5000.png" />
 
+    - Ticket machine dibuat dengan harga Rp 5000.
+    - Saldo awal (balance) = 0.
+    - Total pendapatan mesin (total) = 0.
+
+    Akan muncul objek di kiri bawah seperti pada gambar:
+
+    <img width="720" alt="Image" src="img/3-3.png" />
    
 3. User memasukkan uang
-4. Mencoba cetak tiket
-5. User memasukkan uang lagi
-6. Mencetak tiket
-7. Coba dengan memasukkan jumlah uang yang lebih besar
-8. Refund atau mengambil sisa saldo yang tersedia
+
+    <img width="360" alt="Image" src="img/3-3.png" />
+
+    
+    
+5. Mencoba cetak tiket
+6. User memasukkan uang lagi
+7. Mencetak tiket
+8. Coba dengan memasukkan jumlah uang yang lebih besar
+9. Refund atau mengambil sisa saldo yang tersedia
 
 
 
