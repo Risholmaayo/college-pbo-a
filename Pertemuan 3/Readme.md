@@ -10,7 +10,7 @@ Kali ini saya membuat sistem ticket machine menggunakan Java (BlueJ). Biasanya B
 
 Berikut contoh implementasi sederhana sistem TicketMachine:
 
-```
+```java
 /**
  * TicketMachine.java
  * Sebuah mesin tiket sederhana
