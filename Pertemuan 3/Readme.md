@@ -195,12 +195,15 @@ public int refundBalance() {
 
 **Contoh Alur Interaksi**
 1. Membuat objek ticket machine
-2. User memasukkan uang
-3. Mencoba cetak tiket
-4. User memasukkan uang lagi
-5. Mencetak tiket
-6. Coba dengan memasukkan jumlah uang yang lebih besar
-7. Refund atau mengambil sisa saldo yang tersedia
+
+
+   
+3. User memasukkan uang
+4. Mencoba cetak tiket
+5. User memasukkan uang lagi
+6. Mencetak tiket
+7. Coba dengan memasukkan jumlah uang yang lebih besar
+8. Refund atau mengambil sisa saldo yang tersedia
 
 
 
